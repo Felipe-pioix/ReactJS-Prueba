@@ -5,6 +5,7 @@ https://developer.okta.com/blog/2018/12/20/crud-app-with-python-flask-react
 # Rest
 rest vs SOAP
 https://www.baeldung.com/cs/rest-vs-soap
+
 rest session
 https://www.baeldung.com/cs/rest-sessions
 
